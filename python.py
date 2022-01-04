@@ -13,6 +13,6 @@ number = 0
 print(bool(number))
 
 # Boolean from comparison operator
-val1 = 6
-val2 = 3
+val1 = 2
+val2 = 6
 print(val1 < val2)
